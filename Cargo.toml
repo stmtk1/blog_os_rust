@@ -1,5 +1,5 @@
 [package]
-name = "blos_os"
+name = "blog_os"
 version = "0.1.0"
 authors = ["斎藤基樹 <stmtk13044032@gmail.com>"]
 edition = "2018"
